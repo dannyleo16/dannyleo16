@@ -1,6 +1,6 @@
 # Hi, I'm Danny Paltin 👋
 
-AI Engineer | NLP Researcher | Semantic AI | Knowledge Graphs
+AI Engineer | NLP & Semantic AI Researcher | Knowledge Graphs | Transformers
 
 I work on Natural Language Processing, transformer models, and semantic knowledge representation.  
 My research focuses on combining **machine learning with semantic technologies** to transform unstructured data into actionable knowledge.
@@ -13,9 +13,10 @@ Author of the paper:
 
 **Semantic Modeling of ECU 911 Emergencies Using NLP and Ontologies**
 
-Published in Revista Tecnológica ESPOL.
+Published in *Revista Tecnológica ESPOL*.
 
-DOI: https://doi.org/10.37815/rte.v37nE1.1351
+DOI:  
+https://doi.org/10.37815/rte.v37nE1.1351
 
 This research combines:
 
@@ -30,14 +31,14 @@ This research combines:
 
 ## 🤖 Projects
 
-### NLP Model – Emergency Entity Recognition
+### Emergency Entity Recognition (BERT NER)
 
-Fine-tuned BERT model for Named Entity Recognition.
+Fine-tuned BERT model for Named Entity Recognition on Spanish emergency reports.
 
-Repo:
+Repo:  
 https://github.com/dannyleo16/bert-ner-finetuning
 
-Model:
+Model:  
 https://huggingface.co/dannyLeo16/ner_model_bert_base
 
 ---
@@ -46,8 +47,17 @@ https://huggingface.co/dannyLeo16/ner_model_bert_base
 
 Hybrid AI system combining NLP and ontologies to analyze emergency reports.
 
-Repo:
+Repo:  
 https://github.com/dannyleo16/ecu911-semantic-ai
+
+---
+
+### NLP Emergency API
+
+API built with FastAPI to perform Named Entity Recognition on Spanish emergency reports.
+
+Repo:  
+https://github.com/dannyleo16/nlp-emergency-api
 
 ---
 
@@ -72,11 +82,15 @@ Prolog
 
 ## 🌐 Connect
 
-HuggingFace  
+HuggingFace:  
 https://huggingface.co/dannyLeo16
 
+---
 
 ## 📫 Contact
 
-Email: dannypaltin2015@gmail.com
-LinkedIn: www.linkedin.com/in/danny-paltin-b47aaa129
+Email:  
+dannypaltin2015@gmail.com
+
+LinkedIn:  
+https://www.linkedin.com/in/danny-paltin-b47aaa129
