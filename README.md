@@ -47,7 +47,7 @@ https://huggingface.co/dannyLeo16/ner_model_bert_base
 Hybrid AI system combining NLP and ontologies to analyze emergency reports.
 
 Repo:
-https://github.com/dannyleo16/semantic-emergency-nlp
+https://github.com/dannyleo16/ecu911-semantic-ai
 
 ---
 
