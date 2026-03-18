@@ -1,96 +1,80 @@
-# Hi, I'm Danny Paltin 👋
+# Hi, I'm Danny Paltin 👋  
+AI Engineer | NLP (BERT, Transformers) | Data Automation | Python APIs  
 
-AI Engineer | NLP & Semantic AI Researcher | Knowledge Graphs | Transformers
-
-I work on Natural Language Processing, transformer models, and semantic knowledge representation.  
-My research focuses on combining **machine learning with semantic technologies** to transform unstructured data into actionable knowledge.
+I build practical AI and data solutions that help automate processes and turn messy data into useful systems.
 
 ---
 
-## 🔬 Research
+## 🚀 What I do
 
-Author of the paper:
+- NLP systems (BERT, Transformers, NER, text classification)
+- Data automation (TXT/CSV → clean Excel reports)
+- API integrations and data extraction
+- Machine learning model fine-tuning and deployment
+- FastAPI backend development
 
+---
+
+## 🔥 Featured Projects
+
+### 🤖 BERT NER (Spanish NLP)
+Fine-tuned BERT model for Named Entity Recognition on Spanish text.
+
+- Repo: https://github.com/dannyleo16/bert-ner-finetuning  
+- Model: https://huggingface.co/dannyLeo16/ner_model_bert_base  
+
+---
+
+### 📊 TXT to Excel Automation
+Python system that cleans, processes, and updates Excel files from raw TXT data automatically.
+
+- Detects encoding and delimiters  
+- Cleans and normalizes data  
+- Updates Excel without duplicates  
+- Applies formatting and creates backups  
+
+---
+
+### 🌐 NLP API (FastAPI)
+API for real-time entity recognition using a fine-tuned NLP model.
+
+- Repo: https://github.com/dannyleo16/nlp-emergency-api  
+
+---
+
+## 🔬 Research (Optional)
+
+Author of:  
 **Semantic Modeling of ECU 911 Emergencies Using NLP and Ontologies**
 
-Published in *Revista Tecnológica ESPOL*.
+This project combines:
+- BERT (NER)
+- XLM-RoBERTa (zero-shot)
+- OWL ontologies & reasoning
+- Knowledge graphs
 
 DOI:  
 https://doi.org/10.37815/rte.v37nE1.1351
 
-This research combines:
+---
 
-- NLP (BERT for Named Entity Recognition)
-- Zero-shot classification using XLM-RoBERTa
-- OWL Ontologies
-- SWRL Rules
-- Semantic reasoning using Pellet
-- Knowledge graph modeling
+## 🛠 Tech Stack
+
+Python • Pandas • FastAPI • Transformers • PyTorch • Hugging Face • NLP  
 
 ---
 
-## 🤖 Projects
+## 🌐 Links
 
-### Emergency Entity Recognition (BERT NER)
-
-Fine-tuned BERT model for Named Entity Recognition on Spanish emergency reports.
-
-Repo:  
-https://github.com/dannyleo16/bert-ner-finetuning
-
-Model:  
-https://huggingface.co/dannyLeo16/ner_model_bert_base
-
----
-
-### Semantic Emergency Analysis
-
-Hybrid AI system combining NLP and ontologies to analyze emergency reports.
-
-Repo:  
-https://github.com/dannyleo16/ecu911-semantic-ai
-
----
-
-### NLP Emergency API
-
-API built with FastAPI to perform Named Entity Recognition on Spanish emergency reports.
-
-Repo:  
-https://github.com/dannyleo16/nlp-emergency-api
-
----
-
-## 🛠 Technologies
-
-Python  
-Transformers  
-BERT  
-HuggingFace  
-OWL Ontologies  
-SWRL  
-SPARQL  
-Prolog  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyleo16&show_icons=true)
-
----
-
-## 🌐 Connect
-
-HuggingFace:  
-https://huggingface.co/dannyLeo16
+- HuggingFace: https://huggingface.co/dannyLeo16  
+- LinkedIn: https://www.linkedin.com/in/danny-paltin-b47aaa129  
 
 ---
 
 ## 📫 Contact
 
-Email:  
-dannypaltin2015@gmail.com
+Email: dannypaltin2015@gmail.com  
 
-LinkedIn:  
-https://www.linkedin.com/in/danny-paltin-b47aaa129
+---
+
+💡 Available for freelance projects (AI, NLP, automation, APIs)
